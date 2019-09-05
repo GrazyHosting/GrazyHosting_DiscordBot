@@ -20,6 +20,6 @@ client.on("message", async Message => {
 });
 
 
-
+fsdadsdfsaddfsadsa
 // kick, ban, clear, leveling, welkom, welkomrol, meme, setup, logchannel, 
 // mute, ?warn, help, settings, website, 
