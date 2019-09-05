@@ -4,8 +4,6 @@ const config = require('./config.json');
 const client = new Discord.Client();
 
 let prefix = config.prefix;
-jihdsflkj
-
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
